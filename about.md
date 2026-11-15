@@ -41,5 +41,4 @@ protecting the industrial systems (power, water, factories) that everyone depend
 Korean (native) / English (fluent) / French (DELF B1, working toward B2)
 
 ## Contact
-
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) · [GitHub](https://github.com/hojaetim)
+[E-mail] hojaetim@gmail.com · [GitHub](https://github.com/hojaetim)
