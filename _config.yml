@@ -1,0 +1,29 @@
+# Site settings. Change "YOUR-USERNAME" to your GitHub username.
+title: "Ho-jae Kim · Security Notes"
+description: >-
+  Learning cybersecurity in public: networks, security operations, GRC and
+  industrial security. Notes in English, with some in French.
+author: Ho-jae Kim
+url: "https://YOUR-USERNAME.github.io"
+baseurl: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+github_username: YOUR-USERNAME
+linkedin_username: YOUR-LINKEDIN-ID
+
+header_pages:
+  - about.md
+  - labs.md
+  - grc.md
+  - francais.md
+
+show_excerpts: true
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - _templates
+  - README.md
