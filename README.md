@@ -2,7 +2,7 @@
 
 ## Publish in 5 steps
 1. Create a GitHub account with a professional username (e.g. `hojae-kim`).
-2. Create a new **public** repository named exactly `YOUR-USERNAME.github.io`.
+2. Create a new **public** repository named exactly `YOUR-USERNAME.github.io`. 
 3. Upload every file and folder from this zip (Add file > Upload files), then Commit.
 4. Settings > Pages > Build and deployment: Source = "Deploy from a branch", Branch = `main`, folder `/ (root)`. Save.
 5. Wait 1 to 3 minutes, then open https://YOUR-USERNAME.github.io
