@@ -4,7 +4,7 @@ description: >-
   Learning cybersecurity in public: networks, security operations, GRC and
   industrial security. Notes in English, with some in French.
 author: Ho-jae Kim
-url: "https://YOUR-USERNAME.github.io"
+url: "https://hojaetim.github.io"
 baseurl: ""
 
 theme: minima
@@ -12,7 +12,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-github_username: YOUR-USERNAME
+github_username: hojaetim
 linkedin_username: YOUR-LINKEDIN-ID
 
 header_pages:
