@@ -13,7 +13,6 @@ plugins:
   - jekyll-seo-tag
 
 github_username: hojaetim
-linkedin_username: YOUR-LINKEDIN-ID
 
 header_pages:
   - about.md
